@@ -20,7 +20,7 @@ jobs:
     - name: Install dependencies
       run: dotnet restore
     - name: Build with dotnet
-      run: dotnet build --configuration Release Pokemon/Pokemon.sln
+      run: dotnet build --configuration Release Pokemon.sln
     - name: Build
       run: dotnet build --configuration Release --no-restore
     - name: Test

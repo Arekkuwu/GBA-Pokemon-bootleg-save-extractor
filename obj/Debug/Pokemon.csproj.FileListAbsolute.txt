@@ -1,9 +1,0 @@
-C:\Users\Alexandre\source\repos\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
-C:\Users\Alexandre\source\repos\Pokemon\Pokemon\bin\Debug\Pokemon.exe
-C:\Users\Alexandre\source\repos\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
-C:\Users\Alexandre\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.Software.resources
-C:\Users\Alexandre\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
-C:\Users\Alexandre\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
-C:\Users\Alexandre\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
-C:\Users\Alexandre\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.exe
-C:\Users\Alexandre\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.pdb

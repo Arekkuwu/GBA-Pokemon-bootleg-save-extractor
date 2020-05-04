@@ -1,0 +1,10 @@
+C:\Users\Alexandre\source\repos\Pokemon\Pokemon\bin\Debug\GBA_Pokemon_bootleg_save_extractor.exe.config
+C:\Users\Alexandre\source\repos\Pokemon\Pokemon\bin\Debug\GBA_Pokemon_bootleg_save_extractor.exe
+C:\Users\Alexandre\source\repos\Pokemon\Pokemon\bin\Debug\GBA_Pokemon_bootleg_save_extractor.pdb
+C:\Users\Alexandre\source\repos\Pokemon\Pokemon\obj\Debug\GBA Pokemon bootleg save extractor.csprojAssemblyReference.cache
+C:\Users\Alexandre\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.Software.resources
+C:\Users\Alexandre\source\repos\Pokemon\Pokemon\obj\Debug\GBA_Pokemon_bootleg_save_extractor.Properties.Resources.resources
+C:\Users\Alexandre\source\repos\Pokemon\Pokemon\obj\Debug\GBA Pokemon bootleg save extractor.csproj.GenerateResource.cache
+C:\Users\Alexandre\source\repos\Pokemon\Pokemon\obj\Debug\GBA Pokemon bootleg save extractor.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\Pokemon\Pokemon\obj\Debug\GBA_Pokemon_bootleg_save_extractor.exe
+C:\Users\Alexandre\source\repos\Pokemon\Pokemon\obj\Debug\GBA_Pokemon_bootleg_save_extractor.pdb

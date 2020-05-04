@@ -2,5 +2,5 @@
 
 This tools is still in progress.
 
-Link where the idear began:
+Link where the idea began:
 https://gbatemp.net/threads/backup-a-gba-pokemon-bootleg-save-file.555494/#post-8911919
